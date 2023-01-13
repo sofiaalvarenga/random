@@ -21,6 +21,7 @@ img {
     border-radius: 5%;
     padding: 5px;
     border-color: gray;
+    font-size: 24px;
     }
 #botao2 {
     position: absolute;
@@ -29,6 +30,7 @@ img {
     border-radius: 5%;
     padding: 5px;
     border-color: gray;
+    font-size: 24px;
 }
 #botao1:hover{
     background-color: pink;
